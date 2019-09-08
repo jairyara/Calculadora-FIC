@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc FIC</string>
+    <string name="welcome_calc_fic">Bienvenido a Calc FIC</string>
+    <string name="fic_mensual">FIC Mensual</string>
+    <string name="fic_presuntivo">FIC Presuntivo</string>
+    <string-array name="tipo_FIC">
+        <item>---Seleccione---</item>
+        <item>Mano de obra</item>
+        <item>Todo costo</item>
+    </string-array>
+</resources>
